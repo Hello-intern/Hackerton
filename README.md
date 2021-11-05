@@ -1,6 +1,5 @@
 # Inter_Hackerton
 
-
 # Team<br>
 
 <table width="788" align="center">
